@@ -2,3 +2,7 @@ l=list(map(int,input().split())
 t=tuple(l)
 t=tuple()
 length=len(t)
+k=0
+for e in t:
+    k+=e
+print(k)
