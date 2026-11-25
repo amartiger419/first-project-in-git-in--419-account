@@ -6,3 +6,4 @@ k=0
 for e in t:
     k+=e
 print(k)
+mera rangdi basanti chola
